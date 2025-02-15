@@ -22,8 +22,8 @@ A desktop application that provides a graphical interface for generating unique 
 ## Preview
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/bec6f97f-df37-4015-81a8-ae22d7588e99" width="450" height="600" />
-    <img src="https://github.com/user-attachments/assets/74152756-22ac-4ba1-b62b-6486c3015a1e" width="450" height="600" />
+    <img src="https://github.com/user-attachments/assets/bec6f97f-df37-4015-81a8-ae22d7588e99" width="400" height="600" />
+    <img src="https://github.com/user-attachments/assets/74152756-22ac-4ba1-b62b-6486c3015a1e" width="400" height="600" />
 </div>
 
 ## 💻 Installation & Usage
