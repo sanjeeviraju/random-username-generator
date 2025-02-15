@@ -8,14 +8,6 @@
 
 A desktop application that provides a graphical interface for generating unique usernames by combining adjectives and nouns with optional numbers and special characters.
 
-<div style="width: 60%; height: 60%"> 
-  ![image](https://github.com/user-attachments/assets/bec6f97f-df37-4015-81a8-ae22d7588e99)
-</div>
-
-<div style="width: 60%; height: 60%">
-![image](https://github.com/user-attachments/assets/74152756-22ac-4ba1-b62b-6486c3015a1e)
-</div>
-
 ## 🚀 Features
 
 - Modern Tkinter GUI interface
@@ -26,6 +18,13 @@ A desktop application that provides a graphical interface for generating unique 
   - Generate multiple usernames at once
 - Save generated names to file
 - No external dependencies
+
+## Preview
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/bec6f97f-df37-4015-81a8-ae22d7588e99" width="500" height="650" />
+    <img src="https://github.com/user-attachments/assets/74152756-22ac-4ba1-b62b-6486c3015a1e" width="500" height="650" />
+</div>
 
 ## 💻 Installation & Usage
 
