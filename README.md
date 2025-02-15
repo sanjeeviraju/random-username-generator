@@ -1,4 +1,4 @@
-# Username Generator
+# Random Username Generator
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 
@@ -23,8 +23,8 @@ A desktop application that provides a graphical interface for generating unique 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sanjeeviraju/username-generator.git
-cd username-generator
+git clone https://github.com/sanjeeviraju/random-username-generator.git
+cd random-username-generator
 ```
 
 2. (Optional) Create a virtual environment:
@@ -71,7 +71,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Create an issue or submit a pull request.
 
-Project Link: [https://github.com/sanjeeviraju/username-generator](https://github.com/sanjeeviraju/username-generator)
+Project Link: [https://github.com/sanjeeviraju/random-username-generator](https://github.com/sanjeeviraju/random-username-generator)
 
 ## 📝 License
 

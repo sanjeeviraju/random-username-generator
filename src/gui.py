@@ -24,7 +24,7 @@ class UsernameGeneratorGUI:
             root: Tkinter root window
         """
         self.root = root
-        self.root.title("Username Generator")
+        self.root.title("Random Username Generator")
         self.root.geometry("700x700")
         
         # Simplified colors for light theme only
