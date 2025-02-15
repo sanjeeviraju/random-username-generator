@@ -7,6 +7,9 @@
 ## 📌 Overview
 
 A desktop application that provides a graphical interface for generating unique usernames by combining adjectives and nouns with optional numbers and special characters.
+![image](https://github.com/user-attachments/assets/bec6f97f-df37-4015-81a8-ae22d7588e99)
+![image](https://github.com/user-attachments/assets/74152756-22ac-4ba1-b62b-6486c3015a1e)
+
 
 ## 🚀 Features
 
